@@ -1,0 +1,98 @@
+user = Jatu Rahardian
+api_id = 1779804
+api_hash = 'e320a33e11a7289fcdf4ed89431f4de2'
+phone = '+6285733085591'
+
+user =  firstbro
+api_id = 1454605
+api_hash = '5894fef957368a44b0d9e265e2cb1dd7'
+phone = '+14022624519'
+
+
+user = Au
+api_id = 1464833
+api_hash = '1a28c339707cd0db078be659d84e12f5'
+phone = '+19193917524'
+
+user = Yusuf
+api_id = 1508856
+api_hash = '9403118362143b46c76ff3950b0d2cb2'
+phone = '+18547774307'
+
+user = Yaseer2
+api_id = 1514806
+api_hash = 'a6b542997563ef624a4f63d54b2376dd'
+phone = '+13174553821'
+
+user = dendi
+api_id = 1563152
+api_hash = 'd8edea8cfb6d145e5e08a67d93e0028a'
+phone = '+12679007056'
+
+user = Bambang
+api_id = 1725832
+api_hash = '3ab44d7059604ac8320ffde3220a7e92'
+phone = '+19292690423'
+
+user = Lukman
+api_id = 1442790
+api_hash = 'dc53fece936bd5c354dddc1b9f0803ef'
+phone = '+18145144882'
+
+User = O Bala
+api_id = 1560064
+api_hash = '72674ea881bea28f2d0221ea2b1b5adc'
+phone = '+16602362153'
+
+user = Bayu
+api_id = 1541385
+api_hash = '4a5b0b140de5f06cb909175984c0468d'
+phone = '+15015576253'
+
+user = Steve
+api_id = 1479969
+api_hash = '515131b3e7d49b7d66b8fa9e7715eba3'
+phone = '+15072007169'
+
+
+jatuelek105@gmail.com
+user = 
+api_id = 
+api_hash = ''
+phone = '+16083776171'
+
+
+user = Jatubyu
+api_id = 1631294
+api_hash = '296c3bad6b3032b82980e0a246f34fe4'
+phone = '+6285156863237'
+
+user = Bapak
+api_id = 1711237
+api_hash = 'd741961852cf940fd12e9fc6969ebc0d'
+phone = '+6281234045099'
+
+user = Bapak2
+api_id = 1711305
+api_hash = 'cce76afa1798c367a5a39c524c36be5e'
+phone = '+6285645215977'
+
+user = Jatu 3
+api_id = 1681247
+api_hash = 'f2317d917328e5a2b8a3df97e97c2f8e'
+phone = '+62895396064148'
+
+email = jatuelek16@gmail.com
+user = Muhammadamin
+api_id = 1459092
+api_hash = '3c5bd4e2996dbb24af9ac6c7061cc4af'
+phone = '+18623005141'
+
+email = jatuelek19@gmail.com
+user = Kelvib
+api_id = 1415436
+api_hash = 'f64693f32db01dea6d954d7cdcfdcf50'
+phone = '+16093829599'
+
+
+cd games\learn-web-scraping\scrapetelegram

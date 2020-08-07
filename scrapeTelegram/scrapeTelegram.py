@@ -25,18 +25,16 @@ result = client(GetDialogsRequest(
             limit=chunk_size,
             hash=0
         ))
-print('Check 1 : ', result.chats)
+
 chats.extend(result.chats)
-print('Check 2 : ', chats)
 
 for chat in chats:
     try:
-        if chat.megagroup:
-            groups.append(chat)
+        groups.append(chat)
     except:
         continue
 
-"""
+
 print('Choose a group to scrape members from : ')
 i = 0
 for g in groups:
@@ -51,10 +49,11 @@ all_participants = []
 all_participants = client.get_participants(target_group, aggressive=True)
 
 print('Saving In File...')
-with open('member_gosc.csv', 'w', encoding='UTF-8') as f:
+with open('group_4.csv', 'w', encoding='UTF-8') as f:
     writer = csv.writer(f, delimiter=',', lineterminator='\n')
-    writer.writerow(['username', 'user_id', 'access hash', 'name', 'group', 'group id'])
+    writer.writerow(['username', 'phone', 'user_id', 'access hash', 'name', 'group', 'group id'])
     for user in all_participants:
+        print(user)
         if user.username:
             username = user.username
         else:
@@ -67,7 +66,10 @@ with open('member_gosc.csv', 'w', encoding='UTF-8') as f:
             last_name = user.last_name
         else:
             last_name = ''
+        if user.phone:
+            phone = user.phone
+        else:
+            phone = ''
         name = (first_name + ' ' + last_name).strip()
-        writer.writerow([username, user.id, user.access_hash, name, target_group.title, target_group.id])
+        writer.writerow([username, phone, user.id, user.access_hash, name, target_group.title, target_group.id])
 print('Members scraped successfully.')
-"""
