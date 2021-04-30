@@ -86,7 +86,7 @@ queuelib==1.5.0
 regex==2020.7.14
 requests==2.24.0
 requests-html==0.10.0
-rsa==4.6
+rsa==4.7
 Scrapy==2.2.1
 selenium==3.141.0
 Send2Trash==1.5.0
