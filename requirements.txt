@@ -103,7 +103,7 @@ traitlets==4.3.3
 Twisted @ file:///D:/Games/learn-web-scraping/Twisted-20.3.0-cp38-cp38-win_amd64.whl
 twitter==1.18.0
 twitter-scraper==0.4.4
-urllib3==1.25.10
+urllib3==1.26.5
 voila==0.1.21
 w3lib==1.22.0
 wcwidth==0.2.5
