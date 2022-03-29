@@ -35,7 +35,7 @@ jupyter==1.0.0
 jupyter-client==6.1.6
 jupyter-console==6.1.0
 jupyter-core==4.6.3
-jupyter-server==0.1.1
+jupyter-server==1.15.4
 jupyterlab-pygments==0.1.1
 lxml==4.5.2
 MarkupSafe==1.1.1
